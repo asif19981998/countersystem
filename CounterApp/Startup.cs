@@ -1,3 +1,4 @@
+using Counter.IoCContainer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +29,7 @@ namespace CounterApp
             {
                 configuration.RootPath = "ClientApp/build";
             });
+            IoCContainer.Configure(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

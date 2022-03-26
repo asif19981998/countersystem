@@ -1,0 +1,15 @@
+E:\Interview(malasiya)\CounterApp\Counter.BLL\bin\Debug\net5.0\Counter.BLL.deps.json
+E:\Interview(malasiya)\CounterApp\Counter.BLL\bin\Debug\net5.0\Counter.BLL.dll
+E:\Interview(malasiya)\CounterApp\Counter.BLL\bin\Debug\net5.0\ref\Counter.BLL.dll
+E:\Interview(malasiya)\CounterApp\Counter.BLL\bin\Debug\net5.0\Counter.BLL.pdb
+E:\Interview(malasiya)\CounterApp\Counter.BLL\bin\Debug\net5.0\Counter.BLL.Abastractions.dll
+E:\Interview(malasiya)\CounterApp\Counter.BLL\bin\Debug\net5.0\Counter.BLL.Abastractions.pdb
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.csproj.AssemblyReference.cache
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.AssemblyInfoInputs.cache
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.AssemblyInfo.cs
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.csproj.CoreCompileInputs.cache
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.csproj.CopyComplete
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.dll
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\ref\Counter.BLL.dll
+E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.pdb
