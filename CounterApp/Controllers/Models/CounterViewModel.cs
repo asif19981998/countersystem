@@ -11,5 +11,6 @@ namespace CounterApp.Controllers.Models
         public bool isNumericValueAdded { get; set; }
         public bool isAlphaNumericValueAdded { get; set; }
         public bool isFloatValueAdded { get; set; }
+        public int FileSize { get; set; }
     }
 }

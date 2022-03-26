@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Counter" targetNamespace="http://tempuri.org/Counter.xsd" xmlns:mstns="http://tempuri.org/Counter.xsd" xmlns="http://tempuri.org/Counter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Counter" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Counter" msprop:Generator_UserDSName="Counter">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="counterData" msprop:Generator_TableClassName="counterDataDataTable" msprop:Generator_TableVarName="tablecounterData" msprop:Generator_TablePropName="counterData" msprop:Generator_RowDeletingName="counterDataRowDeleting" msprop:Generator_RowChangingName="counterDataRowChanging" msprop:Generator_RowEvHandlerName="counterDataRowChangeEventHandler" msprop:Generator_RowDeletedName="counterDataRowDeleted" msprop:Generator_UserTableName="counterData" msprop:Generator_RowChangedName="counterDataRowChanged" msprop:Generator_RowEvArgName="counterDataRowChangeEvent" msprop:Generator_RowClassName="counterDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumericData" msprop:Generator_ColumnVarNameInTable="columnNumericData" msprop:Generator_ColumnPropNameInRow="NumericData" msprop:Generator_ColumnPropNameInTable="NumericDataColumn" msprop:Generator_UserColumnName="NumericData" type="xs:string" minOccurs="0" />
+              <xs:element name="AlphaNumericData" msprop:Generator_ColumnVarNameInTable="columnAlphaNumericData" msprop:Generator_ColumnPropNameInRow="AlphaNumericData" msprop:Generator_ColumnPropNameInTable="AlphaNumericDataColumn" msprop:Generator_UserColumnName="AlphaNumericData" type="xs:string" minOccurs="0" />
+              <xs:element name="DecimalData" msprop:Generator_ColumnVarNameInTable="columnDecimalData" msprop:Generator_ColumnPropNameInRow="DecimalData" msprop:Generator_ColumnPropNameInTable="DecimalDataColumn" msprop:Generator_UserColumnName="DecimalData" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

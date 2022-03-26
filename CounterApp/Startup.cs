@@ -1,4 +1,5 @@
-using Counter.IoCContainer;
+//using Counter.IoCContainer;
+using CounterApp.Controllers.Hubs;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,7 +30,10 @@ namespace CounterApp
             {
                 configuration.RootPath = "ClientApp/build";
             });
-            IoCContainer.Configure(services);
+            services.AddCors();
+            services.AddSignalR();
+           
+            //IoCContainer.Configure(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,7 +49,14 @@ namespace CounterApp
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            app.UseCors(options =>
+            {
+                options.WithOrigins(new[] { "https://localhost:44338" });
+               
+                options.AllowAnyMethod();
+                options.AllowAnyHeader();
+                options.AllowCredentials();
+            });
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseSpaStaticFiles();
@@ -54,9 +65,11 @@ namespace CounterApp
 
             app.UseEndpoints(endpoints =>
             {
+              
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller}/{action=Index}/{id?}");
+                endpoints.MapHub<ObjectUpdatedHub>("/objectUpdatedHub");
             });
 
             app.UseSpa(spa =>
@@ -66,8 +79,11 @@ namespace CounterApp
                 if (env.IsDevelopment())
                 {
                     spa.UseReactDevelopmentServer(npmScript: "start");
+                    
                 }
             });
+
+           
         }
     }
 }

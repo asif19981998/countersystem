@@ -10,7 +10,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AspNetCore.Reporting" Version="2.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="5.0.13" />
+    <PackageReference Include="Microsoft.ReportingServices.ReportViewerControl.WebForms" Version="150.1484.0" />
+    <PackageReference Include="System.CodeDom" Version="6.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,6 +26,27 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Counter.IoCContainer\Counter.IoCContainer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DataSet\Counter.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>Counter.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="NewReportDataSet\Counter.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>Counter.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DataSet\Counter.Designer.cs">
+      <DependentUpon>Counter.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
