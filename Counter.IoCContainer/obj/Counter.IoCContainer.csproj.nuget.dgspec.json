@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Interview(malasiya)\\CounterApp\\Counter.IoCContainer\\Counter.IoCContainer.csproj": {}
+    "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.IoCContainer\\Counter.IoCContainer.csproj": {}
   },
   "projects": {
-    "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj": {
+    "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj",
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj",
         "projectName": "Counter.BLL.Abastractions",
-        "projectPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL.Abastractions\\obj\\",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL.Abastractions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL\\Counter.BLL.csproj": {
+    "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL\\Counter.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL\\Counter.BLL.csproj",
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL\\Counter.BLL.csproj",
         "projectName": "Counter.BLL",
-        "projectPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL\\Counter.BLL.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL\\obj\\",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL\\Counter.BLL.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj": {
-                "projectPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj"
+              "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj": {
+                "projectPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL.Abastractions\\Counter.BLL.Abastractions.csproj"
               }
             }
           }
@@ -112,21 +112,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Interview(malasiya)\\CounterApp\\Counter.IoCContainer\\Counter.IoCContainer.csproj": {
+    "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.IoCContainer\\Counter.IoCContainer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Interview(malasiya)\\CounterApp\\Counter.IoCContainer\\Counter.IoCContainer.csproj",
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.IoCContainer\\Counter.IoCContainer.csproj",
         "projectName": "Counter.IoCContainer",
-        "projectPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.IoCContainer\\Counter.IoCContainer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.IoCContainer\\obj\\",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.IoCContainer\\Counter.IoCContainer.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.IoCContainer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,8 +140,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL\\Counter.BLL.csproj": {
-                "projectPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.BLL\\Counter.BLL.csproj"
+              "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL\\Counter.BLL.csproj": {
+                "projectPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.BLL\\Counter.BLL.csproj"
               }
             }
           }
@@ -176,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

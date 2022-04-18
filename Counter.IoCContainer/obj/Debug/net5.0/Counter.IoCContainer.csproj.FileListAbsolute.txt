@@ -15,3 +15,20 @@ E:\Interview(malasiya)\CounterApp\Counter.IoCContainer\obj\Debug\net5.0\Counter.
 E:\Interview(malasiya)\CounterApp\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.dll
 E:\Interview(malasiya)\CounterApp\Counter.IoCContainer\obj\Debug\net5.0\ref\Counter.IoCContainer.dll
 E:\Interview(malasiya)\CounterApp\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\Counter.IoCContainer.deps.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\Counter.IoCContainer.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\ref\Counter.IoCContainer.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\Counter.IoCContainer.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\Counter.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\Counter.BLL.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\Counter.BLL.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\bin\Debug\net5.0\Counter.BLL.Abastractions.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.csproj.CopyComplete
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\ref\Counter.IoCContainer.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.IoCContainer\obj\Debug\net5.0\Counter.IoCContainer.pdb

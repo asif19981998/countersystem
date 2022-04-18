@@ -16,3 +16,21 @@ E:\Interview(malasiya)\CounterApp\CounterForm\obj\Debug\net5.0-windows\CounterFo
 E:\Interview(malasiya)\CounterApp\CounterForm\obj\Debug\net5.0-windows\ref\CounterForm.dll
 E:\Interview(malasiya)\CounterApp\CounterForm\obj\Debug\net5.0-windows\CounterForm.pdb
 E:\Interview(malasiya)\CounterApp\CounterForm\obj\Debug\net5.0-windows\CounterForm.genruntimeconfig.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\bin\Debug\net5.0-windows\CounterForm.exe
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\bin\Debug\net5.0-windows\CounterForm.deps.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\bin\Debug\net5.0-windows\CounterForm.runtimeconfig.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\bin\Debug\net5.0-windows\CounterForm.runtimeconfig.dev.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\bin\Debug\net5.0-windows\CounterForm.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\bin\Debug\net5.0-windows\ref\CounterForm.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\bin\Debug\net5.0-windows\CounterForm.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.Form1.resources
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.csproj.GenerateResource.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\ref\CounterForm.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\CounterForm\obj\Debug\net5.0-windows\CounterForm.genruntimeconfig.cache

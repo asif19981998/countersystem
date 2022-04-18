@@ -10,3 +10,15 @@ E:\Interview(malasiya)\CounterApp\Counter.Repositories.Abastractions\obj\Debug\n
 E:\Interview(malasiya)\CounterApp\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.dll
 E:\Interview(malasiya)\CounterApp\Counter.Repositories.Abastractions\obj\Debug\net5.0\ref\Counter.Repositories.Abastractions.dll
 E:\Interview(malasiya)\CounterApp\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\bin\Debug\net5.0\Counter.Repositories.Abastractions.deps.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\bin\Debug\net5.0\Counter.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\bin\Debug\net5.0\ref\Counter.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\bin\Debug\net5.0\Counter.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\ref\Counter.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repositories.Abastractions\obj\Debug\net5.0\Counter.Repositories.Abastractions.pdb

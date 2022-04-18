@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\RAKIB\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Interview(malasiya)\\CounterApp\\Counter.Repository\\Counter.Repositories.csproj",
+      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repository\\Counter.Repositories.csproj",
       "projectName": "Counter.Repositories",
-      "projectPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.Repository\\Counter.Repositories.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.Repository\\obj\\",
+      "projectPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repository\\Counter.Repositories.csproj",
+      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+      "outputPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

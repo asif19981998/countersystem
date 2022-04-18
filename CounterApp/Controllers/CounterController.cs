@@ -4,11 +4,12 @@ using CounterApp.Controllers.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
+using Microsoft.AspNetCore.SignalR;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -24,10 +25,12 @@ namespace CounterApp.Controllers
     {
         private readonly IWebHostEnvironment _webHostEnvironment;
         readonly IDisposable _disposable;
+        private readonly IHubContext<ObjectUpdatedHub> _messageHub;
 
-        public CounterController(IWebHostEnvironment webHostEnvironment)
+       public CounterController([NotNull] IHubContext<ObjectUpdatedHub> messageHub,IWebHostEnvironment webHostEnvironment)
         {
             _webHostEnvironment = webHostEnvironment;
+            _messageHub = messageHub;
         }
 
 
@@ -177,7 +180,21 @@ namespace CounterApp.Controllers
             return dt;
         }
 
+        [HttpPost]
+        [Route("sendMessage")]
+        public async Task<IActionResult> Create(MessagePost message)
+        {
+            await _messageHub.Clients.All.SendAsync("sendToReact", "The message " + message.Message + " Has been received ");
+            return Ok();
+        }
 
 
     }
+
+
+    public class MessagePost
+    {
+        public virtual string Message { get; set; }
+    }
+
 }

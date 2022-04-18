@@ -65,11 +65,11 @@ namespace CounterApp
 
             app.UseEndpoints(endpoints =>
             {
-              
+                endpoints.MapHub<ObjectUpdatedHub>("/message");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller}/{action=Index}/{id?}");
-                endpoints.MapHub<ObjectUpdatedHub>("/objectUpdatedHub");
+              
             });
 
             app.UseSpa(spa =>

@@ -10,9 +10,9 @@ namespace CounterApp.Controllers.Hubs
 {
     public class ObjectUpdatedHub:Hub
     {
-        //public async Task SendMessage(string message="abbbb")
-        //{
-        //    await Clients.Caller.ReceiveMessage(message);
-        //}
+        public async Task SendMessage(string message = "abbbb")
+        {
+            //await Clients.Caller.ReceiveMessage(message);
+        }
     }
 }

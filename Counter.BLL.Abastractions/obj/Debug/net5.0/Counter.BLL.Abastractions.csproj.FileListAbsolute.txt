@@ -10,3 +10,15 @@ E:\Interview(malasiya)\CounterApp\Counter.BLL.Abastractions\obj\Debug\net5.0\Cou
 E:\Interview(malasiya)\CounterApp\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.dll
 E:\Interview(malasiya)\CounterApp\Counter.BLL.Abastractions\obj\Debug\net5.0\ref\Counter.BLL.Abastractions.dll
 E:\Interview(malasiya)\CounterApp\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\bin\Debug\net5.0\Counter.BLL.Abastractions.deps.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\bin\Debug\net5.0\Counter.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\bin\Debug\net5.0\ref\Counter.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\bin\Debug\net5.0\Counter.BLL.Abastractions.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\ref\Counter.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL.Abastractions\obj\Debug\net5.0\Counter.BLL.Abastractions.pdb

@@ -10,3 +10,15 @@ E:\Interview(malasiya)\CounterApp\Counter.Repository\obj\Debug\net5.0\Counter.Re
 E:\Interview(malasiya)\CounterApp\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.dll
 E:\Interview(malasiya)\CounterApp\Counter.Repository\obj\Debug\net5.0\ref\Counter.Repositories.dll
 E:\Interview(malasiya)\CounterApp\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\bin\Debug\net5.0\Counter.Repositories.deps.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\bin\Debug\net5.0\Counter.Repositories.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\bin\Debug\net5.0\ref\Counter.Repositories.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\bin\Debug\net5.0\Counter.Repositories.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\ref\Counter.Repositories.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.Repository\obj\Debug\net5.0\Counter.Repositories.pdb

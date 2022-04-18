@@ -13,3 +13,18 @@ E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.cspro
 E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.dll
 E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\ref\Counter.BLL.dll
 E:\Interview(malasiya)\CounterApp\Counter.BLL\obj\Debug\net5.0\Counter.BLL.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\bin\Debug\net5.0\Counter.BLL.deps.json
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\bin\Debug\net5.0\Counter.BLL.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\bin\Debug\net5.0\ref\Counter.BLL.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\bin\Debug\net5.0\Counter.BLL.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\bin\Debug\net5.0\Counter.BLL.Abastractions.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\bin\Debug\net5.0\Counter.BLL.Abastractions.pdb
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.csproj.CopyComplete
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\ref\Counter.BLL.dll
+F:\Rakib,IT\P. Project\SingnalIr(In react and asp dot net api)\countersystem\Counter.BLL\obj\Debug\net5.0\Counter.BLL.pdb

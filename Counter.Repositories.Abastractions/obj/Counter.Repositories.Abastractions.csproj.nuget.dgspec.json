@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Interview(malasiya)\\CounterApp\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj": {}
+    "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj": {}
   },
   "projects": {
-    "E:\\Interview(malasiya)\\CounterApp\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj": {
+    "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Interview(malasiya)\\CounterApp\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj",
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj",
         "projectName": "Counter.Repositories.Abastractions",
-        "projectPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Interview(malasiya)\\CounterApp\\Counter.Repositories.Abastractions\\obj\\",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repositories.Abastractions\\Counter.Repositories.Abastractions.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.Repositories.Abastractions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

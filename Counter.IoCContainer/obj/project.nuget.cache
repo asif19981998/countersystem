@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xxMcfZ8U6Q/HugX9SfmtrHPp80UrhFNSxoHk430aB+I6K49pkuViIe5zSyKatBYLF/fCVv6VzvlU43nV+HzeaQ==",
+  "dgSpecHash": "KrzLcYtRgLarHcClZhUNxVS8+jXLhp4N36bKQzNwGrpFhsjIKTsIqp/T2iQMfR9ptMvylFhQyk01H1nLL7rt6A==",
   "success": true,
-  "projectFilePath": "E:\\Interview(malasiya)\\CounterApp\\Counter.IoCContainer\\Counter.IoCContainer.csproj",
+  "projectFilePath": "F:\\Rakib,IT\\P. Project\\SingnalIr(In react and asp dot net api)\\countersystem\\Counter.IoCContainer\\Counter.IoCContainer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\RAKIB\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
